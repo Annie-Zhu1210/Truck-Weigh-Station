@@ -240,20 +240,24 @@ If readings drift over time, you can re-tare without full recalibration:
 <!-- TODO: Add your project images here -->
 
 ### System Overview
-<!-- ![System Overview](images/system_overview.jpg) -->
-*Add your system overview image here*
+<div align="center">
+  <img src="/Images/Prototype.jpg" width="30%" alt="The interior structure of the enclosure" />
+</div>
 
 ### Enclosure Interior
-<!-- ![Enclosure Interior](images/enclosure_interior.jpg) -->
-*Add your enclosure interior image here*
+<div align="center">
+  <img src="/Images/enclosure_interior.JPG" width="50%" alt="The interior structure of the enclosure" />
+</div>
 
 ### Barrier in Action
-<!-- ![Barrier Closed](images/barrier_closed.jpg) -->
-*Add your barrier demonstration image here*
+<div align="center">
+  <img src="/Images/rise_arm_barrier.jpg" width="30%" alt="The rising arm barrier" />
+</div>
 
-### Testing
-<!-- ![Testing](images/testing.jpg) -->
-*Add your testing image here*
+### LCD Screen Messages for Different Loads
+<div align="center">
+  <img src="/Images/LoadComparison.png" width="50%" alt=" Messages shown on the LCD screen subject to under and above the threshold" />
+</div>
 
 ---
 
@@ -280,8 +284,3 @@ If readings drift over time, you can re-tare without full recalibration:
 
 This project is open source and available under the [MIT License](LICENSE).
 
----
-
-<p align="center">
-  Made with ❤️ for CASA0016 @ UCL
-</p>
